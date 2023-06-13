@@ -1,0 +1,1 @@
+DELETE A FROM Person A,Person B where A.id>B.id AND A.email= B.email;  
